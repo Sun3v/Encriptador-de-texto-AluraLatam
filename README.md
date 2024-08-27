@@ -16,6 +16,16 @@ Este repositorio contiene un **encriptador de texto** desarrollado como parte de
 
 ## Propósito del Proyecto
 
+- **ENCRIPTAR TEXTO**: Una vez escrito el texto deseado dentro del recuadro (recuerda hacerlo en minúsculas y sin acentos), da click en el botón "Encriptar Texto". Te arrojara tu texto encriptado en el recuadro del lado derecho.
+- **DESENCRIPTAR TEXTO**: Una vez escrito el texto deseado dentro del recuadro (debe estar encriptado por esta misma web), da click en el botón "Desencriptar Texto". Te arrojara tu texto sin encriptación. Tambiém puedes hacer uso del botón inmediatamente despues de haber encriptado un texto previo.
+- **COPIAR TEXTO**: Una vez encriptado/desencriptado tu texto, puedes hacer uso del botón "Copiar texto" para guardar dicho texto en tu portapapeles. Te arrojará un mensaje de alerta de que tu texto fue copiado exitosamente.
+- **Volver a Iniciar**: Si quieres volver a la web original, solo da click aquí y te realizará un "reset" de cada una de las casillas.
+
+## Responsividad
+Este proyecto cuenta con responsividad, por lo que puede ser visualizado en la gran mayoría de los dispositivos moviles, con una pantalla no menor a width: 375px y un height: 933px
+
+## Propósito del Proyecto
+
 Este proyecto es parte de un "challenge" educativo de Alura LATAM, diseñado para ayudar a los futuros desarrolladores a entender y aplicar de manera correcta los principios de programación. 
 
 ---
